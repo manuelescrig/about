@@ -12,40 +12,41 @@
 	<link rel="Shortcut Icon" href="http://www.manuelescrig.com/favicon.ico" type="image/x-icon">
 	<!--[if lt IE 9]>
 	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->	
+	<![endif]-->
 	<style>
 		* { padding: 0; margin: 0; -webkit-font-smoothing: antialiased; }
-		body { background-color: #86959E; margin-bottom: 50px; }
-		h1 { color: rgba(255,255,255,0.6); font-family: Helvetica; font-size: 44px;}
-		h2 { color: rgba(255,255,255,0.3); font-family: Helvetica; font-size: 32px;}
-		p { color: #fff; font-family: Helvetica; font-size: 22px; line-height: 32px; margin-bottom: 22px; }
-		a { color: #fff; font-weight: 600; text-decoration: none; padding-bottom: -1px !important; 
+		body { background-color: #86959E; margin-bottom: 50px;  }
+		h1 { color: rgba(32,32,32,0.5); font-family: Helvetica; font-size: 44px; background-color: rgba(125,125,125,0.2); padding: 5px;}
+		h2 { color: rgba(32,32,32,0.5); font-family: Helvetica; font-size: 32px; background-color: rgba(125,125,125,0.2); padding: 5px;}
+		p { color: rgba(255,255,255,1); font-family: Helvetica; font-size: 22px; line-height: 32px; margin-bottom: 22px;
+			background-color: rgba(125,125,125,0.2); padding: 5px;}
+		a { color: rgba(255,255,255,1); font-weight: 600; text-decoration: none; padding-bottom: -1px !important;
 			border-bottom: 3px solid rgba(255,255,255,0.3);}
 		strong { font-weight: 600; }
 		a:hover { color: #fff; border-bottom: 3px solid rgba(255,255,255,1); }
 		#monogram { width: 50px; padding: 50px 0 0 0; margin: 0 auto 0 50px; }
-		#about { width: 550px; margin: 50px auto 0 50px !important; }
+		#about { width: 500px; margin: 50px auto 0 50px !important; }
 		.initials { opacity: 0.8; }
-		small { color: #fff; font-family: "freight-micro-pro", Helvetica; font-size: 14px; 
+		small { color: #fff; font-family: "freight-micro-pro", Helvetica; font-size: 14px;
 			-webkit-font-smoothing: antialiased; }
-		@media (max-width: 767px) { 
+		@media (max-width: 767px) {
 			#monogram { position: relative; width: auto; padding: 20px; margin: 0; }
 			#about { position: relative; width: auto; padding: 50px; margin: 0 !important; }
 			.backstretch { opacity: 0.2; }
 		}
 	</style>
-</head>	
-    
+</head>
+
 <body>
 
-<div id="about"> 
+<div id="about">
 
 	<h1>Manuel Escrig Ventura</h1>
-	<p>{A Renaissance Man}</p>
-	<p>World explorer, clarinet player, avid swimmer, wine lover and cook enthusiast.</p>
+	<p>A Renaissance Man<br/>
+		World explorer, clarinet player, avid swimmer, wine lover and cook enthusiast.</p>
 
 	<h2>Projects</h2>
-	<p>Software Engineer at <a href="http://www.liip.ch/" target="_blank">LIIP</a>, Co-founder at <a href="http://www.goinspired.com/" target="_blank">Go Inspired</a>, Indie App Developer at <a href="http://ventura.media" target="_blank">Ventura.Media</a> and Random Posts Writer at <a href="http://www.manuelescrig.com/" target="_blank">my blog</a>.
+	<p>Software Engineer at <a href="http://www.liip.ch/" target="_blank">LIIP</a>, Co-founder at <a href="http://www.goinspired.com/" target="_blank">Go Inspired</a>, Indie App Developer at <a href="http://ventura.media" target="_blank">Ventura.Media</a> and Blogger at <a href="http://www.manuelescrig.com/" target="_blank">manuelescrig.com</a>.
 	</p>
 
 	<h2>Networks</h2>
@@ -73,7 +74,7 @@
 <script type="text/javascript">
 $(function(){
      $(window).resize(function(){
-         $.backstretch("manuel_escrig_ventura.jpg", {speed: 0});
+         $.backstretch("manuel_escrig_ventura_b.jpg", {speed: 0});
       })
       .resize();//trigger resize on page load
 });
