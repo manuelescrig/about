@@ -13,6 +13,6 @@ About Manuel Escrig Ventura website.
 [People Tracker App](http://www.peopletrackerapp.com)
 [Digital Photo Frame App](http://www.digitalphotoframeapp.com)
 [Email Me App](http://www.emailmeapp.net)
-[Group Budget App](http://www.groupbudetapp.com)
+[Group Budget App](http://www.groupbudgetapp.com)
 
 
