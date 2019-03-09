@@ -20,8 +20,8 @@ About Manuel Escrig Ventura website.
 
 [Digital Photo Frame App Store](https://itunes.apple.com/us/app/digital-photo-frame-pro-slideshow-creator/id1219786089?ls=1&mt=8)
 
-#### Group Budget
-[Group Budget](http://www.emailmeapp.net)
+#### Email Me
+[Email Me](http://www.emailmeapp.net)
 
 [Email Me App Store](https://itunes.apple.com/us/app/email-me-notes-in-one-tap/id1090744587?mt=8)
 
