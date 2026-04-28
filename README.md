@@ -1,11 +1,7 @@
 # About Website
 About Manuel Escrig Ventura website.
 
-[about.manuelescrig.com](http://about.manuelescrig.com)
-
-## Portfolio
-
-[Ventura Media](http://ventura.media)
+[manuelescrig.com](http://manuelescrig.com)
 
 
 ## iOS Apps
