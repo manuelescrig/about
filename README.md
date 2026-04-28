@@ -3,36 +3,25 @@ About Manuel Escrig Ventura website.
 
 [manuelescrig.com](http://manuelescrig.com)
 
-
-## iOS Apps
-
-#### People Tracker
-Your cell phone tracker app. People Tracker allows you to stay connected to your employees, friends, family, co-workers... or anyone else you want to locate in real time. These are just some example of uses.
-
-• [People Tracker](http://www.peopletrackerapp.com)
-
-• [People Tracker App Store](https://itunes.apple.com/us/app/people-tracker-pro/id539205975?ls=1&mt=8)
+## Apps
 
 #### Digital Photo Frame
-Digital Photo Frame App. The most gorgeous and powerful photo player application for the iPad and iPhone.
 
-• [Digital Photo Frame](http://www.digitalphotoframeapp.com)
+Digital Photo Frame App is a gorgeous and powerful photo player app for iPad and iPhone.
 
-• [Digital Photo Frame App Store](https://itunes.apple.com/us/app/digital-photo-frame-pro-slideshow-creator/id1219786089?ls=1&mt=8)
+• [Digital photo frame app for iPad, iPhone, Apple TV and Mac](https://www.digitalphotoframeapp.com)  
+• [Download Digital Photo Frame App on the App Store](https://itunes.apple.com/us/app/digital-photo-frame-pro-slideshow-creator/id1219786089?ls=1&mt=8)
 
 #### Email Me
-Notes in one tap! Send yourself quick reminders. Email Me is the easiest and fastest way to email something yourself so you will never forget things ever again.
 
-• [Email Me](http://www.emailmeapp.net)
+Email Me is the easiest and fastest way to send yourself quick notes, reminders, tasks, and ideas in one tap.
 
-• [Email Me App Store](https://itunes.apple.com/us/app/email-me-notes-in-one-tap/id1090744587?mt=8)
+• [Quick notes and reminders app for iPhone, iPad, Apple Watch, and Mac](https://www.emailmeapp.net)  
+• [Download Email Me on the App Store](https://itunes.apple.com/us/app/email-me-notes-in-one-tap/id1090744587?mt=8)
 
-#### Group Budget
-Manage group expenses and incomes on the iPhone.
+#### The Photo Booth App
 
-• [Group Budget](http://www.groupbudgetapp.com)
+The Photo Booth App turns your iPad or iPhone into a simple and fun photo booth for parties, weddings, corporate events, and celebrations.
 
-• [Group Budget App Store](https://itunes.apple.com/us/app/group-budget/id554189435?ls=1&mt=8)
-
-
-
+• [Photo booth app for iPad and iPhone events](https://www.thephotoboothapp.com)  
+• [Download The Photo Booth App on the App Store](https://apps.apple.com/us/app/photobooth-app-for-events/id6758273611)
